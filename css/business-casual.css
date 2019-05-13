@@ -190,9 +190,7 @@ footer p {
         clear: both;
     }
 }
-{
-    box-sizing: border-box;
-}
+
 
 .transparent {
     position: relative;
